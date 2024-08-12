@@ -1,0 +1,17 @@
+Aula de revisão
+____________________
+
+
+*Listas/tupas 
+*Dicionários = chave:valor 
+*set  = Não contém valores repetidos
+
+*Array: Matriz
+
+tupas sao constantes 
+
+duas maneiras de usar o input
+
+nome = input()
+
+print(type(idade))

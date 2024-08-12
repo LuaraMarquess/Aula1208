@@ -1,0 +1,2 @@
+Nomes = ["João","Maria",José"]
+Excluidos = nome[1]
